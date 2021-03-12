@@ -16,4 +16,9 @@ then run
 
 python3 working.flaskchatbot.py
 
+## NOTE
+This will NOT work out of the box on repl.it
 
+I haven't figured out why yet.
+
+https://repl.it/@DennisGG/flaskenglishchatbot#README.md
