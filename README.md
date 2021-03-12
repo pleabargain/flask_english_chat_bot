@@ -4,9 +4,9 @@
 check out db browser for sqlite
 
 ## to run the chatbot
-build it first with python3 
+build it first with 
 
-chatbot_training.py
+python3 chatbot_training.py
 
 this will load your local training data  in the training_data directory
 
